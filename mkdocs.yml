@@ -1,3 +1,36 @@
-site_name: Apocrypha Wiki
+site_name: Apocrypha
+site_url: https://www.apocrypha.wiki
 theme:
   name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tabs
+    - content.code.copy
+    - search.highlight
+    - content.anchors
+  palette:
+    primary: deep purple
+    accent: indigo
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.emoji
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.betterem:
+      smart_enable: all
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Sickliff/Apocrypha
