@@ -6,7 +6,7 @@ For discussion, visit the [Apocrypha Discord](https://discord.gg/rnE4ZttgsJ).
 
 ## Contributing to Apocrypha
 
-Thanks for helping document Skyrim's shame!
+Thanks for helping us document Skyrim's shame!
 
 ### How to add a new page
 
@@ -17,7 +17,7 @@ Thanks for helping document Skyrim's shame!
 4. Commit and push to your fork.
 5. Open a Pull Request back to the `main` branch.
 
-Navigation is generated automatically based on folder structure — you do not need to edit `mkdocs.yml`.
+Navigation is generated automatically based on folder structure, you don't need to edit `mkdocs.yml`.
 
 ### Article Format
 
@@ -30,4 +30,4 @@ Each page should include:
 - Demonstration media (images, gifs, YouTube embeds using HTML)
 - Miscellaneous notes
 
-Remember: keep tone informational, avoid speculation without context, and never write from first person perspective.
+Remember to keep tone informational, avoid speculation without context, and never write from first person perspective.
