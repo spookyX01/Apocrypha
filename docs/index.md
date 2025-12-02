@@ -11,7 +11,7 @@ Thanks for helping us document Skyrim's shame!
 ### How to add a new page
 
 1. Fork the [repository](https://github.com/Sickliff/Apocrypha).
-2. Create a new `.md` file inside the appropriate category in `docs/`. (Example: `docs/glitches/my-new-glitch.md`)
+2. Create a new `.md` file inside the appropriate category in `docs/`. (Example: `docs/glitches/My_New_Glitch.md`)
 3. Write your article using Markdown.
 4. Commit and push to your fork.
 5. Open a Pull Request back to the `main` branch.
